@@ -74,7 +74,7 @@ const Contact = () => {
           </h1>
           <div className="w-24 h-1 bg-gold mx-auto mb-8"></div>
           <p className="text-lg text-gray-700 dark:text-gray-300 leading-relaxed">
-            Ready to streamline your business operations? Let's discuss how I can help you achieve 
+            Ready to streamline your business operations? Let&apos;s discuss how I can help you achieve 
             your goals. Fill out the form below or reach out directly via email or WhatsApp.
           </p>
         </motion.div>
@@ -182,7 +182,7 @@ const Contact = () => {
                   animate={{ opacity: 1, y: 0 }}
                   className="p-4 bg-green-50 border border-green-200 rounded-lg text-green-800 text-sm"
                 >
-                  Thank you! Your message has been sent successfully. I'll get back to you soon.
+                  Thank you! Your message has been sent successfully. I&apos;ll get back to you soon.
                 </motion.div>
               )}
 

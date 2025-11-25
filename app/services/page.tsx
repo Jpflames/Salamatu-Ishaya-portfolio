@@ -101,7 +101,7 @@ const Services = () => {
               Ready to Get Started?
             </h2>
             <p className="text-gray-300 mb-8 max-w-2xl mx-auto">
-              Let's discuss how I can help streamline your business operations and support your success.
+              Let&apos;s discuss how I can help streamline your business operations and support your success.
             </p>
             <motion.a
               href="/contact"

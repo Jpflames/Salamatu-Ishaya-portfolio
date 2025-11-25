@@ -21,7 +21,7 @@ const TestimonialCard = ({ name, company, testimonial, delay = 0 }: TestimonialC
     >
       <Quote className="text-gold opacity-20 absolute top-6 right-6" size={48} />
       <div className="relative z-10">
-        <p className="text-gray-700 dark:text-gray-300 mb-6 leading-relaxed italic">"{testimonial}"</p>
+        <p className="text-gray-700 dark:text-gray-300 mb-6 leading-relaxed italic">&quot;{testimonial}&quot;</p>
         <div className="flex items-center space-x-4">
           <div className="w-12 h-12 rounded-full bg-gradient-to-br from-gold to-gold/60 flex items-center justify-center text-white font-semibold">
             {name.charAt(0)}

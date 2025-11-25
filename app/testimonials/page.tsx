@@ -42,7 +42,7 @@ const Testimonials = () => {
           </h1>
           <div className="w-24 h-1 bg-gold mx-auto mb-8"></div>
           <p className="text-lg text-gray-700 dark:text-gray-300 leading-relaxed">
-            Don't just take my word for it. Here's what my clients have to say about working with me. 
+            Don&apos;t just take my word for it. Here&apos;s what my clients have to say about working with me. 
             Their success stories reflect my commitment to delivering exceptional virtual assistance services.
           </p>
         </motion.div>
